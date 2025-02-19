@@ -1,4 +1,4 @@
-import React from 'react';
+import Logo from './assets/logo-andrade-costa.png'; // Importe a imagem do logoimport React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
